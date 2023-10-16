@@ -66,3 +66,11 @@ Este patrón divide el sistema en servicios independientes, cada uno con su prop
 ## ⚙️ Patrones de Comportamiento:
 
 Los patrones de comportamiento se centran en cómo los componentes del sistema interactúan para lograr objetivos específicos. Estos patrones definen cómo se produce la comunicación, la colaboración y la coordinación entre los componentes del sistema. Aquí tienes algunos ejemplos relevantes:
+
+### ⚙️ Patrón Modelo-Vista-Controlador (MVC):
+
+El Patrón Modelo-Vista-Controlador (MVC) es ampliamente utilizado en aplicaciones web y de software. Divide una aplicación en tres componentes principales: el Modelo, que maneja los datos y la lógica de negocio; la Vista, que se encarga de la presentación y la interfaz de usuario; y el Controlador, que gestiona las interacciones del usuario y la coordinación entre el Modelo y la Vista. Esta separación de responsabilidades facilita el desarrollo, la mantenibilidad y la escalabilidad de las aplicaciones.
+
+### ⚙️ Patrón Broker:
+
+El Patrón Broker actúa como intermediario entre componentes o servicios, centralizando la comunicación y la gestión de servicios. El Broker actúa como un punto de acceso central para los componentes del sistema, facilitando la integración y la comunicación. Es especialmente útil en sistemas distribuidos, donde puede actuar como un conserje que conecta diferentes servicios en un hotel, gestionando las solicitudes y las respuestas.
