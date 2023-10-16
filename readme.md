@@ -100,3 +100,15 @@ Para diferenciar un patrón arquitectónico, considera los siguientes criterios:
 🔹 **Estructura:** Los patrones arquitectónicos definen la estructura global del sistema, mientras que los patrones de diseño se centran en la estructura de componentes individuales.
 
 🔹 **Comportamiento:** Los patrones arquitectónicos definen el comportamiento del sistema en su conjunto, mientras que los patrones de diseño se centran en el comportamiento de componentes individuales.
+
+## 🔎 Estrategias para Elegir un Estilo Arquitectónico 🔎
+
+Al elegir un estilo arquitectónico, los arquitectos deben considerar:
+
+**Requisitos del Sistema:** Los requisitos funcionales y no funcionales del sistema.
+
+**Limitaciones del Sistema:** Las limitaciones de la plataforma de hardware y software.
+
+**Preferencias del Equipo:** Las preferencias del equipo de desarrollo.
+
+La elección del estilo arquitectónico adecuado es fundamental para crear sistemas que cumplan con los objetivos del proyecto. 🏗️📘
