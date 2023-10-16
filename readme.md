@@ -50,3 +50,15 @@ Los patrones de diseño de arquitectura de software se dividen en dos categoría
 ## ⚙️ Patrones de Organización:
 
 Los patrones de organización se centran en la estructura global del sistema, definiendo cómo los componentes del software se organizan y se relacionan entre sí. Estos patrones ayudan a los arquitectos de software a dividir el sistema en partes manejables y a definir la forma en que interactúan. Algunos ejemplos notables incluyen:
+
+### ⚙️ Patrón de Capas:
+
+Este patrón divide el sistema en capas o niveles, donde cada capa tiene una función específica. Por ejemplo, en una aplicación web, puedes tener una capa de presentación (interfaz de usuario), una capa de lógica de negocios y una capa de acceso a datos. La capa de presentación se encarga de la interacción con el usuario, la capa de lógica de negocios implementa la lógica empresarial y la capa de acceso a datos se ocupa de la persistencia de datos. Este enfoque ayuda a separar las preocupaciones y facilita la gestión y la escalabilidad del sistema.
+
+### ⚙️ Patrón Cliente-Servidor:
+
+El Patrón Cliente-Servidor divide el sistema en dos partes principales: los clientes y los servidores. Los clientes son responsables de realizar peticiones, como solicitar información o servicios, mientras que los servidores responden a estas peticiones proporcionando los recursos solicitados. Este modelo establece una clara separación de responsabilidades y es fundamental en arquitecturas de red y sistemas distribuidos. Los servidores pueden ser centralizados o distribuidos, y esta arquitectura es común en aplicaciones web, donde los navegadores actúan como clientes y los servidores web manejan las solicitudes y respuestas.
+
+### ⚙️ Patrón de Microservicios:
+
+Este patrón divide el sistema en servicios independientes, cada uno con su propia funcionalidad específica. Cada microservicio se ejecuta de manera autónoma y se comunica con otros microservicios para realizar tareas más complejas. Esta arquitectura permite la flexibilidad y la escalabilidad, ya que cada microservicio se puede desarrollar, implementar y escalar de forma independiente. Es especialmente útil en sistemas grandes y complejos, donde cada microservicio puede estar respaldado por un equipo de desarrollo dedicado.
