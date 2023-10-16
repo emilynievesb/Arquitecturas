@@ -62,3 +62,7 @@ El Patrón Cliente-Servidor divide el sistema en dos partes principales: los cli
 ### ⚙️ Patrón de Microservicios:
 
 Este patrón divide el sistema en servicios independientes, cada uno con su propia funcionalidad específica. Cada microservicio se ejecuta de manera autónoma y se comunica con otros microservicios para realizar tareas más complejas. Esta arquitectura permite la flexibilidad y la escalabilidad, ya que cada microservicio se puede desarrollar, implementar y escalar de forma independiente. Es especialmente útil en sistemas grandes y complejos, donde cada microservicio puede estar respaldado por un equipo de desarrollo dedicado.
+
+## ⚙️ Patrones de Comportamiento:
+
+Los patrones de comportamiento se centran en cómo los componentes del sistema interactúan para lograr objetivos específicos. Estos patrones definen cómo se produce la comunicación, la colaboración y la coordinación entre los componentes del sistema. Aquí tienes algunos ejemplos relevantes:
