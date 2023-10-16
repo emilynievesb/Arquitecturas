@@ -74,3 +74,17 @@ El Patrón Modelo-Vista-Controlador (MVC) es ampliamente utilizado en aplicacion
 ### ⚙️ Patrón Broker:
 
 El Patrón Broker actúa como intermediario entre componentes o servicios, centralizando la comunicación y la gestión de servicios. El Broker actúa como un punto de acceso central para los componentes del sistema, facilitando la integración y la comunicación. Es especialmente útil en sistemas distribuidos, donde puede actuar como un conserje que conecta diferentes servicios en un hotel, gestionando las solicitudes y las respuestas.
+
+# ✔️ Ventajas de los Patrones de Diseño de Arquitectura de Software ✔️
+
+🟢 **Reutilización:** Estos patrones son reutilizables en diferentes proyectos, ahorrando tiempo y esfuerzo.
+
+🟢 **Mejora de la Calidad:** Ayudan a diseñar sistemas más eficientes y adaptables.
+
+🟢 **Comunicación:** Facilitan la comunicación de diseños entre miembros del equipo.
+
+# ❌ Desventajas de los Patrones de Diseño de Arquitectura de Software ❌
+
+🔴 **No son Soluciones Universales:** Deben adaptarse a las necesidades específicas del proyecto.
+
+🔴 **Dificultad de Aprendizaje:** Pueden ser difíciles de aprender, especialmente para arquitectos principiantes.
