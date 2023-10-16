@@ -42,3 +42,11 @@ Algunos ejemplos de patrones de diseño incluyen:
 🛰️ **Singleton Pattern:** Garantiza la existencia de una única instancia de una clase en el sistema.
 
 🛰️ **Adapter Pattern:** Permite la comunicación entre dos clases que no son compatibles.
+
+## 🏗️ Patrones de Arquitectura 🏗️
+
+Los patrones de diseño de arquitectura de software se dividen en dos categorías principales:
+
+## ⚙️ Patrones de Organización:
+
+Los patrones de organización se centran en la estructura global del sistema, definiendo cómo los componentes del software se organizan y se relacionan entre sí. Estos patrones ayudan a los arquitectos de software a dividir el sistema en partes manejables y a definir la forma en que interactúan. Algunos ejemplos notables incluyen:
