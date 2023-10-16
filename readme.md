@@ -88,3 +88,15 @@ El Patrón Broker actúa como intermediario entre componentes o servicios, centr
 🔴 **No son Soluciones Universales:** Deben adaptarse a las necesidades específicas del proyecto.
 
 🔴 **Dificultad de Aprendizaje:** Pueden ser difíciles de aprender, especialmente para arquitectos principiantes.
+
+# ❕ ¿Cómo Diferenciar un Patrón Arquitectónico? ❕
+
+Para diferenciar un patrón arquitectónico, considera los siguientes criterios:
+
+🔹 **Nivel de Abstracción:** Los patrones arquitectónicos se centran en la estructura global del sistema, mientras que los patrones de diseño se enfocan en componentes individuales.
+
+🔹 **Ámbito:** Los patrones arquitectónicos abordan problemas comunes en la arquitectura de software, mientras que los patrones de diseño se centran en problemas comunes en el diseño de software.
+
+🔹 **Estructura:** Los patrones arquitectónicos definen la estructura global del sistema, mientras que los patrones de diseño se centran en la estructura de componentes individuales.
+
+🔹 **Comportamiento:** Los patrones arquitectónicos definen el comportamiento del sistema en su conjunto, mientras que los patrones de diseño se centran en el comportamiento de componentes individuales.
