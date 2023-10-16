@@ -9,3 +9,13 @@ En sus comienzos, el desarrollo de software se llevaba a cabo de manera informal
 # 🛠️ Funcionamiento de la Arquitectura de Software 🛠️
 
 La arquitectura de software es como el plano de una ciudad. Se basa en decisiones de diseño que determinan cómo se construyen y gestionan los componentes del software. Estas decisiones abarcan la elección de lenguajes de programación, la distribución de tareas, la gestión de datos, la comunicación entre componentes y la seguridad. La arquitectura actúa como un plan maestro que guía el ciclo de vida del software, desde la concepción hasta la implementación y el mantenimiento.
+
+# Problemas que resuelve la Arquitectura de Software
+
+| Problemas que resuelve la Arquitectura de Software | Descripción                                                                                                            |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Complejidad                                        | Descompone sistemas complejos en componentes manejables, facilitando su desarrollo.                                    |
+| Escalabilidad                                      | Define cómo un sistema puede crecer y adaptarse sin requerir una reconstrucción completa.                              |
+| Mantenimiento                                      | Facilita la corrección de problemas y la incorporación de nuevas funcionalidades sin afectar otras partes del sistema. |
+| Reutilización                                      | Promueve la reutilización de componentes y módulos, ahorrando tiempo y recursos.                                       |
+| Rendimiento y Eficiencia                           | Optimiza el rendimiento al distribuir tareas y recursos de manera eficiente.                                           |
