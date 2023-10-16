@@ -28,3 +28,17 @@ La arquitectura de software es como el plano de una ciudad. Se basa en decisione
 | Interconexiones                            | Formas en que los componentes se comunican, como llamadas a funciones o intercambio de datos.             |
 | Patrones de Diseño                         | Soluciones estándar para problemas de diseño.                                                             |
 | Consideraciones de Calidad                 | Factores como seguridad, escalabilidad y eficiencia que deben tenerse en cuenta en el diseño del sistema. |
+
+# 🧩 Patrones de Diseño 🧩
+
+Los patrones de diseño en la arquitectura de software son soluciones generales y reutilizables para problemas comunes en el diseño de software. Aunque se asemejan a los patrones de diseño de software, tienen un alcance más amplio, centrándose en la estructura y el comportamiento de los componentes individuales de un sistema.
+
+Estos patrones se enfocan en la resolución de problemas comunes en el diseño de software, abordando la estructura y el comportamiento de los componentes individuales del sistema.
+
+Algunos ejemplos de patrones de diseño incluyen:
+
+🛰️ **Factory Pattern:** Este patrón permite la creación de objetos sin exponer la lógica de creación.
+
+🛰️ **Singleton Pattern:** Garantiza la existencia de una única instancia de una clase en el sistema.
+
+🛰️ **Adapter Pattern:** Permite la comunicación entre dos clases que no son compatibles.
