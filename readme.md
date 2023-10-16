@@ -19,3 +19,12 @@ La arquitectura de software es como el plano de una ciudad. Se basa en decisione
 | Mantenimiento                                      | Facilita la corrección de problemas y la incorporación de nuevas funcionalidades sin afectar otras partes del sistema. |
 | Reutilización                                      | Promueve la reutilización de componentes y módulos, ahorrando tiempo y recursos.                                       |
 | Rendimiento y Eficiencia                           | Optimiza el rendimiento al distribuir tareas y recursos de manera eficiente.                                           |
+
+# Componentes de la Arquitectura de Software
+
+| Componentes de la Arquitectura de Software | Descripción                                                                                               |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| Componentes del Sistema                    | Módulos o partes del software que realizan tareas específicas.                                            |
+| Interconexiones                            | Formas en que los componentes se comunican, como llamadas a funciones o intercambio de datos.             |
+| Patrones de Diseño                         | Soluciones estándar para problemas de diseño.                                                             |
+| Consideraciones de Calidad                 | Factores como seguridad, escalabilidad y eficiencia que deben tenerse en cuenta en el diseño del sistema. |
